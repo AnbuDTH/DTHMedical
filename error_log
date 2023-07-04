@@ -1,0 +1,13 @@
+[14-Oct-2019 03:58:26 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 03:58:43 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 03:58:45 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 03:59:13 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 03:59:22 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 03:59:22 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home1/trendpzh/public_html/nptel/server.php on line 63
+[14-Oct-2019 03:59:22 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home1/trendpzh/public_html/nptel/server.php on line 64
+[14-Oct-2019 03:59:26 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 04:16:45 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 04:17:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/trendpzh/public_html/nptel/server.php on line 10
+[14-Oct-2019 04:25:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/trendpzh/public_html/nptel/server.php on line 78
+[14-Oct-2019 04:35:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/trendpzh/public_html/nptel/server.php:79) in /home1/trendpzh/public_html/nptel/server.php on line 84
+[14-Oct-2019 04:48:56 America/Chicago] PHP Warning:  mcrypt_decrypt() expects at least 4 parameters, 1 given in /home1/trendpzh/public_html/nptel/connection.php on line 57
